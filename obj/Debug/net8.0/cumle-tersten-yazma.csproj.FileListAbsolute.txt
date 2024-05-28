@@ -1,0 +1,14 @@
+c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\bin\Debug\net8.0\cumle-tersten-yazma.exe
+c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\bin\Debug\net8.0\cumle-tersten-yazma.deps.json
+c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\bin\Debug\net8.0\cumle-tersten-yazma.runtimeconfig.json
+c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\bin\Debug\net8.0\cumle-tersten-yazma.dll
+c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\bin\Debug\net8.0\cumle-tersten-yazma.pdb
+c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\obj\Debug\net8.0\cumle-tersten-yazma.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\obj\Debug\net8.0\cumle-tersten-yazma.AssemblyInfoInputs.cache
+c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\obj\Debug\net8.0\cumle-tersten-yazma.AssemblyInfo.cs
+c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\obj\Debug\net8.0\cumle-tersten-yazma.csproj.CoreCompileInputs.cache
+c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\obj\Debug\net8.0\cumle-tersten-yazma.dll
+c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\obj\Debug\net8.0\refint\cumle-tersten-yazma.dll
+c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\obj\Debug\net8.0\cumle-tersten-yazma.pdb
+c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\obj\Debug\net8.0\cumle-tersten-yazma.genruntimeconfig.cache
+c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\obj\Debug\net8.0\ref\cumle-tersten-yazma.dll
