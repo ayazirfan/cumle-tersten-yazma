@@ -1,14 +1,12 @@
-﻿System.Console.WriteLine("Lütfen bir cümle giriniz!");
+﻿System.Console.WriteLine("Lütfen bir cümle giriniz.");
 string cumle = Console.ReadLine();
 
-string tersi = "";
+string ters="";
 
 for (int i = 0; i < cumle.Length; i++)
 {
-    tersi = cumle.Substring(i, 1) + tersi;
+    ters = cumle[i] + ters;
 }
-System.Console.WriteLine("tersi1" + tersi);
+Console.WriteLine("{0}", ters);
 
-// System.Console.WriteLine("tersi2: " + cumle.Reverse().ToString());
-
-System.Console.WriteLine("tersi3:" + new string (cumle.Reverse().ToArray()));
+System.Console.WriteLine("gitdiğiniz cümlenin tersi:" + new string (cumle.Reverse().ToArray()));

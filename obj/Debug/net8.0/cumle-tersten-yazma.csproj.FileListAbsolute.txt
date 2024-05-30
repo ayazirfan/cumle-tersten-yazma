@@ -12,3 +12,4 @@ c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\obj\Debug\net8.0\refint\cumle-ter
 c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\obj\Debug\net8.0\cumle-tersten-yazma.pdb
 c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\obj\Debug\net8.0\cumle-tersten-yazma.genruntimeconfig.cache
 c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\obj\Debug\net8.0\ref\cumle-tersten-yazma.dll
+c:\Users\HP\Desktop\Patika\cumle-tersten-yazma\obj\Debug\net8.0\cumle-tersten-yazma.sourcelink.json
